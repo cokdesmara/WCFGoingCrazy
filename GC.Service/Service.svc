@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="GC.Foundation.ServiceImplementation.GCProcess" CodeBehind="Service.svc.cs" %>
